@@ -1,0 +1,10 @@
+{
+    "modelPackage": "Model",
+    "apiPackage": "Api",
+    "invokerPackage": "AceViral\\TeamCity",
+    "packagePath": "TeamCity",
+    "gitUserId": "aceviralphp",
+    "gitRepoId": "team-city-php",
+    "gitRepoBaseURL": "https://github.com",
+    "artifactVersion": "1.1.0"
+}
