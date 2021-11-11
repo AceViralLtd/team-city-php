@@ -1,0 +1,12 @@
+# EnabledInfo
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**status** | **bool** |  | [optional] 
+**comment** | [**\Swagger\Client\Model\Comment**](Comment.md) |  | [optional] 
+**status_switch_time** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
