@@ -21,11 +21,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/aceviralphp/team-city-php.git"
+      "url": "https://github.com/aceviralltd/team-city-php.git"
     }
   ],
   "require": {
-    "aceviralphp/team-city-php": "*@dev"
+    "aceviralltd/team-city-php": "*@dev"
   }
 }
 ```

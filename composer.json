@@ -1,5 +1,5 @@
 {
-    "name": "aceviralphp/team-city-php",
+    "name": "aceviralltd/team-city-php",
     "version": "1.1.0",
     "description": "",
     "keywords": [
@@ -21,7 +21,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "^7"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",
